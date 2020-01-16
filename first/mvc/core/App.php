@@ -1,0 +1,1 @@
+<!--Sẽ code tập trung vào trong app này, Sẽ gọi controller, model, view bên trong app-->
