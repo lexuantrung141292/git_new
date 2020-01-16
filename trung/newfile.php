@@ -1,3 +1,3 @@
 <?php
-    echo "Duy ngáo tột độ";
+    echo "Duy không ngáo tột độ, mà ngáo quá đỉnh cao";
 ?>
